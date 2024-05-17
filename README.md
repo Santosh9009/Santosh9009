@@ -4,6 +4,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23000BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Fullstack+WebDeveloper;Always+learning+new+things"></a>
 </p>
 
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
+</div>
+<br>
+
+
 
 - 📫 How to reach me **patisantosh00@gmail.com**
 
