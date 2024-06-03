@@ -73,13 +73,16 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
 </p>
-<br><br>
+<br>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh9009&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="santosh9009" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=santosh9009&show_icons=true&locale=en&theme=chartreuse-dark" alt="santosh9009" width="410" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh9009&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="santosh9009" />
 </p>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=santosh9009&show_icons=true&locale=en&theme=chartreuse-dark" alt="santosh9009" width="410" />
+</p>
+<br>
 
 <h1 align="center">Thank You! 🤵 </h1>
 <br>
