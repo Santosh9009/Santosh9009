@@ -72,12 +72,17 @@
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
+</p>
+<br><br>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh9009&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="santosh9009" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=santosh9009&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-<hr>
+
 
 <Br>
 <h1>Thank You! 🤵 </h1>
